@@ -2,4 +2,8 @@
     <string name="app_name">Hello World</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="title_activity_image_show">image_show</string>
+    <string name="button_image">See Image</string>
+    <string name="button_toggle_image">Toggle Image</string>
+    <string name="button_take_picture">Take Picture</string>
 </resources>
