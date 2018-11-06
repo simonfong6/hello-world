@@ -6,4 +6,5 @@
     <string name="button_image">See Image</string>
     <string name="button_toggle_image">Toggle Image</string>
     <string name="button_take_picture">Take Picture</string>
+    <string name="button_http_request">Request</string>
 </resources>
