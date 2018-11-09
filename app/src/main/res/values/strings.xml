@@ -7,4 +7,8 @@
     <string name="button_toggle_image">Toggle Image</string>
     <string name="button_take_picture">Take Picture</string>
     <string name="button_http_request">Request</string>
+    <string name="button_request_response">Waiting for response...</string>
+    <string name="text_input_endpoint">Endpoint</string>
+    <string name="button_requests_page">Requests</string>
+    <string name="button_json_request">JSON Request</string>
 </resources>

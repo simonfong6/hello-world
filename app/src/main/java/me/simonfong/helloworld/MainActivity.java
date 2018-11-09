@@ -36,6 +36,13 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
+    /** Called when the user taps Requests button. */
+    public void goToRequests(View view) {
+        // Do something in response to button
+        Intent intent = new Intent(this, WebRequests.class);
+        startActivity(intent);
+    }
+
     static final int REQUEST_IMAGE_CAPTURE = 1;
 
     private void dispatchTakePictureIntent() {
